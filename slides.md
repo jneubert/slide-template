@@ -2,9 +2,13 @@
 
 ### Tutorial at SWIB22
 
-by Kat Thornton and Joachim Neubert
+Kat Thornton and Joachim Neubert
 
 
 
-## Slide 2
+## Outline
 
+- Introduction
+- Showcase
+- Break
+- Writing Queries Together
