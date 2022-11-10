@@ -1,14 +1,11 @@
-## Getting started with SPARQL and Wikidata
+## {title}
 
-### Tutorial at SWIB22
+### {subtitle}
 
-Kat Thornton and Joachim Neubert
+{author}
 
 
 
 ## Outline
 
-- Introduction
-- Showcase
-- Break
-- Writing Queries Together
+- ...
